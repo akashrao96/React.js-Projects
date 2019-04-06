@@ -44,7 +44,7 @@ export class Random extends React.Component {
     return (
       <div>
         <h1 className={this.isLight() ? 'white' : 'black'}>
-						Background color is {this.formatColor(this.state.color)}!
+	Background color is {this.formatColor(this.state.color)}!
         </h1>
         <Button onClick={this.handleClick} light={this.isLight()} />
       </div>
