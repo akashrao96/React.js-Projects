@@ -1,6 +1,6 @@
 # React Todos App
 
-Todo's app is a simple todo list that makes it easy to keep your entire day's work organized. Just type in simple tasks on the day that needs done, and that's it.
+Todo's app is a simple todo list that makes it easy to keep your entire day's work organized. Just type in simple tasks on the day that needs to be done, and that's it.
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
