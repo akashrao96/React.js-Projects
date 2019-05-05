@@ -16,4 +16,5 @@ Projects built with Create-React-App include support for ES6 syntax, as well as 
 
 ## Walkthrough
 
-![todos](https://user-images.githubusercontent.com/48667844/55705896-79687e80-59fd-11e9-8bd4-40aa7c5d31f8.gif)
+![todos](https://user-images.githubusercontent.com/48667844/57201014-8357b000-6fb0-11e9-841b-6a5374fc41c6.gif)
+
